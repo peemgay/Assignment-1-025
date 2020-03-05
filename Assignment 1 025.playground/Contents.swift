@@ -1,3 +1,7 @@
 import UIKit
 
-var str = "Hello, playground"
+var numBer1 = 5
+var numBer2 = 4
+
+print(numBer1 + numBer2)
+
