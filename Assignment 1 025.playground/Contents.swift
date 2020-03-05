@@ -15,7 +15,7 @@ print("Different = = 5 - 4 = \(difFerent)")
 print("Multiply = = 5 x 4 = \(multiPly)")
 print("Divide = = 5 / 4 = \(diVide)")*/
 
-var asTerisk = String ("*******************************")
+var asTerisk = "*******************************"
 
 print(asTerisk)
 print("Input Currency: 5346")
