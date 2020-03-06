@@ -17,6 +17,8 @@ print("Divide = = 5 / 4 = \(diVide)")*/
 
 var asTerisk = "*******************************"
 var oneThousand = 5
+var oneHundred = 3
+var twenty = 2
 
 print(asTerisk)
 print("Input Currency: 5346")
@@ -24,8 +26,8 @@ print(asTerisk)
 
 print("""
 Bank 1000 = \(oneThousand)
-Bank  500 =
-Bank  100 =
+Bank  500 = 0
+Bank  100 = \(oneHundred)
 Bank   50 =
 Bank   20 =
 Coin   10 =
