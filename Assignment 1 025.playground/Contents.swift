@@ -16,19 +16,20 @@ print("Multiply = = 5 x 4 = \(multiPly)")
 print("Divide = = 5 / 4 = \(diVide)")*/
 
 var asTerisk = "*******************************"
+var oneThousand = 5
 
 print(asTerisk)
 print("Input Currency: 5346")
 print(asTerisk)
 
 print("""
-Bank
-Bank
-Bank
-Bank
-Bank
-Coin
-Coin
-Coin
-Coin
+Bank 1000 = \(oneThousand)
+Bank  500 =
+Bank  100 =
+Bank   50 =
+Bank   20 =
+Coin   10 =
+Coin    5 =
+Coin    2 =
+Coin    1 =
 """)
