@@ -21,3 +21,14 @@ print(asTerisk)
 print("Input Currency: 5346")
 print(asTerisk)
 
+print("""
+Bank
+Bank
+Bank
+Bank
+Bank
+Coin
+Coin
+Coin
+Coin
+""")
