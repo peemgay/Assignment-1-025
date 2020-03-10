@@ -72,7 +72,7 @@ for i in 1...rows {
     print("")
 }*/
 
-var curRentcy:Int = 5346
+/*var curRentcy:Int = 5346
 var b1000 = 5346/1000
 var b500 = (5346%1000)/500
 var b100 = ((5346%1000)%500)/100
@@ -96,4 +96,33 @@ print("10 = \(c10)")
 print("5 = \(c5)")
 print("2 = \(c2)")
 print("1 = \(c1)")
-print("\(asTerisk)")
+print("\(asTerisk)")*/
+var p = 1000
+if (p < 50){
+    print("F")
+}
+
+else if (p >= 50 && p <= 54){
+    print("D")
+}
+else if (p >= 55 && p <= 59){
+    print("D+")
+}
+else if ( p >= 60 && p <= 64){
+    print("C")
+}
+else if ( p >= 65 && p <= 69){
+    print("C+")
+}
+else if ( p >= 70 && p <= 74){
+    print("B")
+}
+else if ( p >= 75 && p <= 79){
+    print("B+")
+}
+else if ( p >= 80 && p <= 100){
+    print("A")
+}
+else {
+    print("Error, score isn’t corrected.")
+}
