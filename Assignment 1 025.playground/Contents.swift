@@ -22,7 +22,7 @@ import UIKit
  print(asTerisk)
  
  var moNey = 5346*/
-var numBer = 5
+/*var numBer = 5
 
 if (numBer%2)==0 {
     print("Even")
@@ -34,13 +34,13 @@ if (numBer%2)==0 {
         print("หาร 3 ลงตัว หาร 5 ไม่ลงตัว")
     }
     else if numBer%3 != 0 && numBer%5 == 0{
-        print("หาร 3 ไม้้ลงตัว หาร 5 ลงตัว")
+        print("หาร 3 ไม่ลงตัว หาร 5 ลงตัว")
     }
     else if numBer%3 != 0 && numBer%5 != 0{
-           print("หาร 3 ไม้้ลงตัว หาร 5 ไม่ลงตัว")
-       }
+        print("หาร 3 ไม่ลงตัว หาร 5 ไม่ลงตัว")
+    }
 }
-if (numBer%3)==0 {
+if (numBer%2)  != 0 {
     print("Odd")
     numBer-=1
     if numBer%2 == 0 && numBer%6 == 0 {
@@ -50,10 +50,16 @@ if (numBer%3)==0 {
         print("หาร 2 ลงตัว หาร 6 ไม่ลงตัว")
     }
     else if numBer%2 != 0 && numBer%6 == 0{
-        print("หาร 2 ไม้้ลงตัว หาร 6 ลงตัว")
+        print("หาร 2 ไม่ลงตัว หาร 6 ลงตัว")
     }
     else if numBer%2 != 0 && numBer%6 != 0{
         print("หาร 2 ไม่ลงตัว หาร 6 ไม่ลงตัว")
     }
     
+}*/
+
+for สูตรคูณ in 1...12 {
+    for สูตรคูณ2 in 1...12 {
+        print("\(สูตรคูณ)*\(สูตรคูณ2)=\(สูตรคูณ*สูตรคูณ2)")
+    }เระเะ
 }
