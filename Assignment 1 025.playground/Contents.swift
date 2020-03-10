@@ -15,23 +15,23 @@ print("Different = = 5 - 4 = \(difFerent)")
 print("Multiply = = 5 x 4 = \(multiPly)")
 print("Divide = = 5 / 4 = \(diVide)")*/
 
-var asTerisk = "*******************************"
-var oneThousand = 5
-var oneHundred = 3
-var twenty = 2
+/*var asTerisk = "*******************************"
 
 print(asTerisk)
 print("Input Currency: 5346")
 print(asTerisk)
 
-print("""
-Bank 1000 = \(oneThousand)
-Bank  500 = 0
-Bank  100 = \(oneHundred)
-Bank   50 =
-Bank   20 =
-Coin   10 =
-Coin    5 =
-Coin    2 =
-Coin    1 =
-""")
+var moNey = 5346*/
+let number = 10
+
+if ((number-1)%3)==0 {
+    print("Even")
+}
+ if ((number+1)%2)==0 {
+    print("Odd")
+}
+ else {
+    print("Error")
+}
+
+
