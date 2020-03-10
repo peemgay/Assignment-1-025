@@ -26,10 +26,11 @@ let number = 10
 
 if ((number-1)%3)==0 {
     print("Even")
+    if ((number+1)%2)==0 {
+        print("Odd")
+    }
 }
- if ((number+1)%2)==0 {
-    print("Odd")
-}
+ 
  else {
     print("Error")
 }
