@@ -121,4 +121,13 @@ import UIKit
  else {
  print("Error, score isn’t corrected.")
  }*/
-
+var empty = "";
+for first in 1...5
+{
+    empty = "";
+    for _ in 1...first
+    {
+        empty = empty + "*"
+    }
+    print (empty)
+}
