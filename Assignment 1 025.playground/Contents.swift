@@ -15,13 +15,6 @@ import UIKit
  print("Multiply = = 5 x 4 = \(multiPly)")
  print("Divide = = 5 / 4 = \(diVide)")*/
 
-/*var asTerisk = "*******************************"
- 
- print(asTerisk)
- print("Input Currency: 5346")
- print(asTerisk)
- 
- var moNey = 5346*/
 /*var numBer = 5
  
  if (numBer%2)==0 {
@@ -64,34 +57,6 @@ import UIKit
  }
  }*/
 
-
-/*var curRentcy:Int = 5346
- var b1000 = 5346/1000
- var b500 = (5346%1000)/500
- var b100 = ((5346%1000)%500)/100
- var b50 = (((5346%1000)%500)%100)/50
- var b20 = ((((5346%1000)%500)%100)%50)/20
- var c10 = (((((5346%1000)%500)%100)%50)%20)/10
- var c5  = ((((((5346%1000)%500)%100)%50)%20)%10)/5
- var c2  = (((((((5346%1000)%500)%100)%50)%20)%10)%5)/2
- var c1 = ((((((((5346%1000)%500)%100)%50)%20)%10)%5)%2)/1
- var asTerisk = "**********************"
- 
- 
- print("\(asTerisk)")
- print("Currentcy : \(curRentcy)")
- print("\(asTerisk)")
- print("1000 = \(b1000)")
- print("500 = \(b500)")
- print("100 = \(b100)")
- print("50 = \(b50)")
- print("20 = \(b20)")
- print("10 = \(c10)")
- print("5 = \(c5)")
- print("2 = \(c2)")
- print("1 = \(c1)")
- print("\(asTerisk)")*/
-
 /*var p = 1000
  if (p < 50){
  print("F")
@@ -121,13 +86,16 @@ import UIKit
  else {
  print("Error, score isn’t corrected.")
  }*/
-var empty = "";
-for first in 1...5
-{
-    empty = "";
-    for _ in 1...first
-    {
-        empty = empty + "*"
-    }
-    print (empty)
-}
+
+
+/*var empty = "";
+ for asTrick in 1...5
+ {
+ //   empty = "";
+ for _ in 1...asTrick
+ {
+ empty = empty + "*"
+ }
+ print ("\(empty)")
+ }*/
+
